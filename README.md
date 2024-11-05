@@ -3,8 +3,8 @@ A sleek and professional personal portfolio website built with [ HTML, CSS, Java
 
 Features:
 
-Customizable design with sections for About Me, Skills, Projects, Contact, and more
-Responsive and mobile-friendly layout for a smooth viewing experience on all devices
-Clean and modern design to highlight your professional skills
-Simple contact form to enable potential clients or employers to get in touch
-Open-source and ready for customization to suit individual needs
+Customizable design with sections for About Me, Skills, Projects, Contact, and more.
+Responsive and mobile-friendly layout for a smooth viewing experience on all devices.
+Clean and modern design to highlight your professional skills.
+Simple contact form to enable potential clients or employers to get in touch.
+Open-source and ready for customization to suit individual needs.
